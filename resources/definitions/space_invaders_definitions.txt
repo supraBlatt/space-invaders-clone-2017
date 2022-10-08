@@ -1,0 +1,25 @@
+START_LEVEL
+level_name:Battle no.1
+ball_velocities:0,0
+background:color(black)
+paddle_speed:650
+paddle_width:100
+block_definitions:definitions/alien_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:60
+row_height:45
+num_blocks:50
+START_BLOCKS
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+a
+END_BLOCKS
+END_LEVEL
